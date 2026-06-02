@@ -20,6 +20,8 @@ Welcome to my digital portfolio. This portfolio showcases my skills, qualificati
 
 **Email:** 221084096@mycput.ac.za
 
+📥 Download CV: [Click here](assets/cv.pdf)
+
 ---
 
 ## Career Objective
@@ -152,7 +154,9 @@ I successfully developed a professional digital portfolio that demonstrates my t
 
 ## Video Link
 
-[Watch My Mock Interview Here](PASTE_YOUR_VIDEO_LINK_HERE)
+## Mock Interview Video
+
+[Download/View My Mock Interview Video](assets/mock-interview.mp4)
 
 ---
 
