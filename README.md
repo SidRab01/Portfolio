@@ -1,4 +1,4 @@
-# 👋 Hi, I'm M. Siddeeq Rabin
+#  Hi, I'm M. Siddeeq Rabin
 
 ## Digital Portfolio – Work Readiness Programme
 
@@ -18,11 +18,7 @@ Welcome to my digital portfolio. This portfolio showcases my skills, qualificati
 
 **Location:** Cape Town, South Africa
 
-**Email:** yourstudentemail@mycput.ac.za
-
-**LinkedIn:** Add LinkedIn Profile Link
-
-**GitHub:** Add GitHub Profile Link
+**Email:** 221084096@mycput.ac.za
 
 ---
 
@@ -38,7 +34,7 @@ I am a motivated ICT student with a passion for software development and problem
 
 **Diploma in Information and Communication Technology**
 
-Current Student
+Current Third Year Student
 
 ---
 
@@ -78,7 +74,7 @@ Current Student
 
 ---
 
-## Academic Projects
+## Academic Group Projects
 
 ### Shiny Sneakers E-Commerce System
 
@@ -180,7 +176,7 @@ The mock interview improved my confidence, communication skills, and ability to 
 
 ---
 
-# 🌐 GitHub Pages Website
+#  GitHub Pages Website
 
 This portfolio has been published using GitHub Pages.
 
